@@ -12,3 +12,5 @@ app.MapGet("/", () => "Hello world em C# !");
 app.MapGet("/", () => "Segunda Funiconalidade");
 
 app.Run();
+//exercicio para próxima aula
+//Criar um endpoint para receber informação pela url
