@@ -16,7 +16,7 @@ Este projeto é uma aplicação ASP.NET Core com uma API para gerenciar serviço
 
 Siga os passos abaixo para executar o projeto:
 
-1. **Atualizar o Banco de Dados**: Crie e aplique as migrações para atualizar o banco de dados:
+1. **Atualizar o Banco de Dados**: Crie e aplique as migrações para atualizar o banco de dados;
 
 `dotnet ef database update`
 
